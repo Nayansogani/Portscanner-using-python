@@ -1,5 +1,5 @@
 
-#Python Nmap Port Scanner
+#!Python Nmap Port Scanner
 This is a simple Python script that uses the python-nmap library to perform a basic port scan using Nmap.
 
 #Requirements
